@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
-  <img src="./assets/hero.svg" alt="Priyanshu — developer building AI products, Windows applications, and modern web experiences" width="100%">
+  <source media="(max-width: 600px)" srcset="./assests/hero-mobile.svg">
+  <img src="./assests/hero.svg" alt="Priyanshu — developer building AI products, Windows applications, and modern web experiences" width="100%">
 </picture>
 
 <p align="center">
