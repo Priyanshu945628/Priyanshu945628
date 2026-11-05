@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Priyanshu, developer building thoughtful software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D0E14"/><stop offset="1" stop-color="#15121F"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#AB8CFF"/><stop offset="1" stop-color="#6D5DF5"/></linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#A595C8" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M0 6Q0 0 8 0H992Q1000 0 1000 8V292Q1000 300 992 300H8Q0 300 0 292Z" fill="none" stroke="#343044" stroke-width="2"/>
+  <rect x="42" y="36" width="52" height="52" rx="11" fill="#211B32" stroke="#7663A5"/>
+  <text x="68" y="69" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" font-size="22" font-weight="700" fill="#D6C8FF">P.</text>
+  <text x="110" y="57" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.7" fill="#C3BCD2">PERSONAL BUILD LOG</text>
+  <text x="110" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#8A8698">DESIGN  /  ENGINEER  /  SHIP</text>
+  <rect x="42" y="122" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="40" y="181" font-family="Segoe UI,Arial,sans-serif" font-size="59" font-weight="800" letter-spacing="-1" fill="#F2F0F7">PRIYANSHU</text>
+  <text x="43" y="221" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing=".25" fill="#C7C2D3">AI products. Windows tools. Modern web experiences.</text>
+  <text x="43" y="264" font-family="Consolas,Menlo,monospace" font-size="12" fill="#AD9AF4">// building software that earns its place on your screen</text>
+  <rect x="660" y="60" width="297" height="193" rx="12" fill="#12121B" stroke="#39354A"/>
+  <path d="M672 60H945Q957 60 957 72V92H660V72Q660 60 672 60Z" fill="#201C2C"/>
+  <circle cx="679" cy="76" r="5" fill="#8B718C"/><circle cx="696" cy="76" r="5" fill="#777080"/><circle cx="713" cy="76" r="5" fill="#6E6C82"/>
+  <text x="935" y="80" font-family="Consolas,Menlo,monospace" font-size="11" text-anchor="end" fill="#A9A0BC">about.ts</text>
+  <text x="680" y="122" font-family="Consolas,Menlo,monospace" font-size="13" fill="#B7A0FF">const</text>
+  <text x="730" y="122" font-family="Consolas,Menlo,monospace" font-size="13" fill="#EDEBF4">priyanshu = {</text>
+  <text x="694" y="152" font-family="Consolas,Menlo,monospace" font-size="13" fill="#ADA4C5">focus:</text>
+  <text x="751" y="152" font-family="Consolas,Menlo,monospace" font-size="13" fill="#AED7C5">"real products"</text>
+  <text x="694" y="182" font-family="Consolas,Menlo,monospace" font-size="13" fill="#ADA4C5">craft:</text>
+  <text x="751" y="182" font-family="Consolas,Menlo,monospace" font-size="13" fill="#AED7C5">"clean UI"</text>
+  <text x="694" y="212" font-family="Consolas,Menlo,monospace" font-size="13" fill="#ADA4C5">status:</text>
+  <text x="760" y="212" font-family="Consolas,Menlo,monospace" font-size="13" fill="#AED7C5">"building"</text>
+  <text x="680" y="238" font-family="Consolas,Menlo,monospace" font-size="13" fill="#EDEBF4">};</text>
+</svg>
